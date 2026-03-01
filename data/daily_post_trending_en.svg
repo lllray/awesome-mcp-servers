@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 718 718" width="718" height="718">
+<rect width="718" height="718" rx="10" fill="#ffffff"/>
+<text x="359.0" y="28" text-anchor="middle" fill="#000000" font-size="14" font-weight="bold">🔥 Daily Trending (2026-03-01)</text>
+<rect x="24" y="48" width="670" height="32" fill="#f6f8fa" rx="4"/>
+<text x="44.0" y="70" text-anchor="middle" fill="#333333" font-size="11">#</text>
+<text x="174.0" y="70" text-anchor="middle" fill="#333333" font-size="11">Project</text>
+<text x="324.0" y="70" text-anchor="middle" fill="#333333" font-size="11">⭐</text>
+<text x="396.0" y="70" text-anchor="middle" fill="#333333" font-size="11">📈 Gain</text>
+<text x="561.0" y="70" text-anchor="middle" fill="#333333" font-size="11">Description</text>
+<line x1="24" y1="80" x2="694" y2="80" stroke="#d0d7de" stroke-width="1"/>
+<text x="44.0" y="96" text-anchor="middle" fill="#000000" font-size="11">1</text>
+<text x="174.0" y="96" text-anchor="middle" fill="#000000" font-size="11">affaan-m/everything-claud...</text>
+<text x="324.0" y="96" text-anchor="middle" fill="#000000" font-size="11">55,661</text>
+<text x="396.0" y="96" text-anchor="middle" fill="#000000" font-size="11">+351</text>
+<text x="561.0" y="96" text-anchor="middle" fill="#000000" font-size="11">The agent harness performance</text>
+<text x="561.0" y="110" text-anchor="middle" fill="#000000" font-size="11">optimization system. Skills, instincts, me</text>
+<line x1="24" y1="130" x2="694" y2="130" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="142" text-anchor="middle" fill="#000000" font-size="11">2</text>
+<text x="174.0" y="142" text-anchor="middle" fill="#000000" font-size="11">mksglu/claude-context-mode</text>
+<text x="324.0" y="142" text-anchor="middle" fill="#000000" font-size="11">946</text>
+<text x="396.0" y="142" text-anchor="middle" fill="#000000" font-size="11">+238</text>
+<text x="561.0" y="142" text-anchor="middle" fill="#000000" font-size="11">Stop losing context to large</text>
+<text x="561.0" y="156" text-anchor="middle" fill="#000000" font-size="11">outputs.</text>
+<line x1="24" y1="176" x2="694" y2="176" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="188" text-anchor="middle" fill="#000000" font-size="11">3</text>
+<text x="174.0" y="188" text-anchor="middle" fill="#000000" font-size="11">ruvnet/ruflo</text>
+<text x="324.0" y="188" text-anchor="middle" fill="#000000" font-size="11">17,005</text>
+<text x="396.0" y="188" text-anchor="middle" fill="#000000" font-size="11">+186</text>
+<text x="561.0" y="188" text-anchor="middle" fill="#000000" font-size="11">🌊 The leading agent orchestration</text>
+<text x="561.0" y="202" text-anchor="middle" fill="#000000" font-size="11">platform for Claude. Deploy intelligen</text>
+<line x1="24" y1="222" x2="694" y2="222" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="234" text-anchor="middle" fill="#000000" font-size="11">4</text>
+<text x="174.0" y="234" text-anchor="middle" fill="#000000" font-size="11">D4Vinci/Scrapling</text>
+<text x="324.0" y="234" text-anchor="middle" fill="#000000" font-size="11">19,318</text>
+<text x="396.0" y="234" text-anchor="middle" fill="#000000" font-size="11">+167</text>
+<text x="561.0" y="234" text-anchor="middle" fill="#000000" font-size="11">🕷️ An adaptive Web Scraping</text>
+<text x="561.0" y="248" text-anchor="middle" fill="#000000" font-size="11">framework that handles everything from a sin</text>
+<line x1="24" y1="268" x2="694" y2="268" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="280" text-anchor="middle" fill="#000000" font-size="11">5</text>
+<text x="174.0" y="280" text-anchor="middle" fill="#000000" font-size="11">ComposioHQ/awesome-claude...</text>
+<text x="324.0" y="280" text-anchor="middle" fill="#000000" font-size="11">39,042</text>
+<text x="396.0" y="280" text-anchor="middle" fill="#000000" font-size="11">+137</text>
+<text x="561.0" y="280" text-anchor="middle" fill="#000000" font-size="11">A curated list of awesome Claude</text>
+<text x="561.0" y="294" text-anchor="middle" fill="#000000" font-size="11">Skills, resources, and tools for custom</text>
+<line x1="24" y1="314" x2="694" y2="314" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="326" text-anchor="middle" fill="#000000" font-size="11">6</text>
+<text x="174.0" y="326" text-anchor="middle" fill="#000000" font-size="11">farion1231/cc-switch</text>
+<text x="324.0" y="326" text-anchor="middle" fill="#000000" font-size="11">22,090</text>
+<text x="396.0" y="326" text-anchor="middle" fill="#000000" font-size="11">+130</text>
+<text x="561.0" y="326" text-anchor="middle" fill="#000000" font-size="11">A cross-platform desktop All-in-One</text>
+<text x="561.0" y="340" text-anchor="middle" fill="#000000" font-size="11">assistant tool for Claude Code, Code</text>
+<line x1="24" y1="360" x2="694" y2="360" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="372" text-anchor="middle" fill="#000000" font-size="11">7</text>
+<text x="174.0" y="372" text-anchor="middle" fill="#000000" font-size="11">superset-sh/superset</text>
+<text x="324.0" y="372" text-anchor="middle" fill="#000000" font-size="11">2,692</text>
+<text x="396.0" y="372" text-anchor="middle" fill="#000000" font-size="11">+118</text>
+<text x="561.0" y="372" text-anchor="middle" fill="#000000" font-size="11">IDE for the AI Agents Era - Run an</text>
+<text x="561.0" y="386" text-anchor="middle" fill="#000000" font-size="11">army of Claude Code, Codex, etc. on y</text>
+<line x1="24" y1="406" x2="694" y2="406" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="418" text-anchor="middle" fill="#000000" font-size="11">8</text>
+<text x="174.0" y="418" text-anchor="middle" fill="#000000" font-size="11">ForLoopCodes/contextplus</text>
+<text x="324.0" y="418" text-anchor="middle" fill="#000000" font-size="11">917</text>
+<text x="396.0" y="418" text-anchor="middle" fill="#000000" font-size="11">+113</text>
+<text x="561.0" y="418" text-anchor="middle" fill="#000000" font-size="11">Semantic Intelligence for</text>
+<text x="561.0" y="432" text-anchor="middle" fill="#000000" font-size="11">Large-Scale Engineering. Context+ is an MCP se</text>
+<line x1="24" y1="452" x2="694" y2="452" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="464" text-anchor="middle" fill="#000000" font-size="11">9</text>
+<text x="174.0" y="464" text-anchor="middle" fill="#000000" font-size="11">sickn33/antigravity-aweso...</text>
+<text x="324.0" y="464" text-anchor="middle" fill="#000000" font-size="11">17,529</text>
+<text x="396.0" y="464" text-anchor="middle" fill="#000000" font-size="11">+109</text>
+<text x="561.0" y="464" text-anchor="middle" fill="#000000" font-size="11">The Ultimate Collection of 900+</text>
+<text x="561.0" y="478" text-anchor="middle" fill="#000000" font-size="11">Agentic Skills for Claude Code/Antigravi</text>
+<line x1="24" y1="498" x2="694" y2="498" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="510" text-anchor="middle" fill="#000000" font-size="11">10</text>
+<text x="174.0" y="510" text-anchor="middle" fill="#000000" font-size="11">Panniantong/Agent-Reach</text>
+<text x="324.0" y="510" text-anchor="middle" fill="#000000" font-size="11">3,332</text>
+<text x="396.0" y="510" text-anchor="middle" fill="#000000" font-size="11">+105</text>
+<text x="561.0" y="510" text-anchor="middle" fill="#000000" font-size="11">Give your AI agent eyes to see the</text>
+<text x="561.0" y="524" text-anchor="middle" fill="#000000" font-size="11">entire internet. Read &amp; search Twitte</text>
+<line x1="24" y1="544" x2="694" y2="544" stroke="#d0d7de" stroke-width="0.5"/>
+<a xlink:href="https://github.com/lllray/awesome-mcp-servers"><text x="694" y="708" text-anchor="end" fill="#57606a" font-size="10">github.com/lllray/awesome-mcp-ser...</text></a>
+</svg>

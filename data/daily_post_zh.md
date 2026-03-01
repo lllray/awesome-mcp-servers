@@ -1,9 +1,9 @@
-# Daily Report 2026-03-01
-- Repo: Awesome MCP Servers
-- New today: 2639 | Total: 2639 | Stars: 2,814,187
-- Link: https://github.com/lllray/awesome-mcp-servers
+# 每日报告 2026-03-01
+- 仓库: Awesome MCP Servers
+- 今日新增: 2639 | 总数: 2639 | Stars: 2,814,187
+- 链接: https://github.com/lllray/awesome-mcp-servers
 
-## Top 5 Trending
+## 热门 Top 5
 1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +351⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
 2. [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) +238⭐ — Stop losing context to large outputs.
 3. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) +186⭐ — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-
