@@ -54,7 +54,7 @@
 | 15 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,083 | +31 | An open-source AI agent that brings the power of Gemini dire |
 | 16 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 8,665 | +29 | Official, Anthropic-managed directory of high quality Claude |
 | 17 | [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) | 518 | +29 | Integrate Grok's powerful real-time search capabilities into |
-| 18 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,636 | +26 | ⭐AI-driven public opinion & trend monitor with multi-platfor |
+| 18 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,636 | +26 | ⭐AI-driven |
 | 19 | [upstash/context7](https://github.com/upstash/context7) | 47,304 | +23 | Context7 MCP Server -- Up-to-date code documentation for LLM |
 | 20 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 79,767 | +21 | Model Context Protocol Servers |
 
@@ -595,4 +595,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:54:54</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:57:07</sub></p>

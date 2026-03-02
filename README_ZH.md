@@ -37,10 +37,10 @@
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 55,661 | +351 | The agent harness performance optimization system.... |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 55,661 | +351 | 该代理利用性能优化系统。为Claude Code、Codex、Cowork等提供技能、本能、记忆、安... |
 | 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,005 | +186 | 🌊 The leading agent orchestration platform for Cla... |
 | 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 19,318 | +167 | 🕷️ An adaptive Web Scraping framework that handles... |
-| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 39,042 | +137 | A curated list of awesome Claude Skills, resources... |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 39,042 | +137 | 精选的Claude技能、资源和工具列表，用于定制Claude AI工作流。 |
 | 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 22,090 | +130 | A cross-platform desktop All-in-One assistant tool... |
 | 6 | [superset-sh/superset](https://github.com/superset-sh/superset) | 2,692 | +118 | IDE for the AI Agents Era - Run an army of Claude ... |
 | 7 | [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) | 917 | +113 | Semantic Intelligence for Large-Scale Engineering.... |
@@ -54,8 +54,8 @@
 | 15 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,083 | +31 | An open-source AI agent that brings the power of G... |
 | 16 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 8,665 | +29 | Official, Anthropic-managed directory of high qual... |
 | 17 | [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) | 518 | +29 | Integrate Grok's powerful real-time search capabil... |
-| 18 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,636 | +26 | ⭐AI-driven public opinion & trend monitor with mul... |
-| 19 | [upstash/context7](https://github.com/upstash/context7) | 47,304 | +23 | Context7 MCP Server -- Up-to-date code documentati... |
+| 18 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,636 | +26 | ⭐AI驱动的舆情与趋势监控，具备多平台聚合、RSS订阅和智能警报功能。🎯 告别信息过载，您的AI舆情... |
+| 19 | [upstash/context7](https://github.com/upstash/context7) | 47,304 | +23 | Context7 MCP服务器——为LLMs和AI代码编辑器提供最新的代码文档 |
 | 20 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 79,767 | +21 | Model Context Protocol Servers |
 
 ---
@@ -603,4 +603,4 @@ git clone https://github.com/lllray/awesome-mcp-servers.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:54:54</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:57:07</sub></p>

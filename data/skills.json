@@ -61136,7 +61136,28 @@
       "category": "other"
     }
   },
-  "translations": {},
+  "translations": {
+    "Model Context Protocol Servers": "Model Context Protocol Servers",
+    "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.": "FastGPT是一个基于大语言模型的知识平台，提供一系列开箱即用的功能，如数据处理、RAG检索和可视化AI工作流编排，让您无需复杂设置或配置即可轻松开发和部署复杂的问答系统。",
+    "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.": "该代理利用性能优化系统。为Claude Code、Codex、Cowork等提供技能、本能、记忆、安全性和研究优先的开发。",
+    "🦍 The API and AI Gateway": "🦍 API和AI网关",
+    "Playwright MCP server": "Playwright MCP服务器",
+    "The fastest path to AI-powered full stack observability, even for lean teams.": "实现AI驱动的全栈可观测性的最快路径，即使是精简团队也能轻松上手。",
+    "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors": "Context7 MCP服务器——为LLMs和AI代码编辑器提供最新的代码文档",
+    "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra": "开源多模态AI代理栈：连接尖端AI模型与代理基础设施",
+    "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.": "Composio支持1000多种工具包、工具搜索、上下文管理、身份验证和沙盒化工作台，帮助您构建将意图转化为行动的AI代理。",
+    "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。": "⭐AI驱动的舆情与趋势监控，具备多平台聚合、RSS订阅和智能警报功能。🎯 告别信息过载，您的AI舆情监控助手与热点筛选工具！聚合多平台热点 + RSS订阅，支持关键词精准筛选。AI翻译 + AI分析简报直推手机，也支持接入MCP架构，赋能AI自然语言对话分析、情感洞察与趋势预测等。支持Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack等渠道智能推送。",
+    "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.": "工作与生活的终极空间——寻找、构建并与随您成长的代理队友协作。我们正在将代理利用提升到新水平——实现多代理协作、轻松设计代理团队，并引入代理作为工作交互的基本单元。",
+    "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows": "精选的Claude技能、资源和工具列表，用于定制Claude AI工作流。",
+    "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。": "CowAgent is a super AI assistant based on large models, capable of proactive thinking and task planning, accessing operating systems and external resources, creating and executing Skills, possessing long-term memory and continuous growth. It also supports integration with Feishu, DingTalk, Enterprise WeChat apps, WeChat official accounts, web pages, etc., with options for OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI. It can process text, voice, images, and files, enabling rapid setup of personal AI assistants and enterprise digital employees.",
+    "A collection of MCP servers.": "A collection of MCP servers.",
+    "GitHub's official MCP Server": "GitHub's official MCP Server",
+    "An open-source AI agent that brings the power of Gemini directly into your terminal.": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+    "Query Engine for AI Analytics: Build self-reasoning agents across all your live data": "Query Engine for AI Analytics: Build self-reasoning agents across all your live data",
+    ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference"
+  },
   "daily": {
     "2026-03-01": {
       "date": "2026-03-01",
@@ -61500,7 +61521,10 @@
   "meta": {
     "created": "2026-03-01 17:33:34",
     "total_collected": 2639,
-    "last_updated": "2026-03-02 20:54:54"
+    "last_updated": "2026-03-02 20:57:07"
   },
-  "translations_en": {}
+  "translations_en": {
+    "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。": "CowAgent is a super AI assistant based on large models, capable of proactive thinking and task planning, accessing operating systems and external resources, creating and executing Skills, possessing long-term memory, and continuously evolving. It supports integration with Feishu, DingTalk, Enterprise WeChat applications, WeChat official accounts, web pages, and more, with options for OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI. It can handle text, voice, images, and files, enabling rapid deployment of personal AI assistants and enterprise digital employees.",
+    "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。": "⭐AI-driven"
+  }
 }
