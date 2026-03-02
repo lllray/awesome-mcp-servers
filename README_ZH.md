@@ -37,26 +37,26 @@
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 56,870 | +1209 | 该代理利用性能优化系统。为Claude Code、Codex、Cowork等提供技能、本能、记忆、安... |
-| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,731 | +726 | 🌊 The leading agent orchestration platform for Cla... |
-| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 19,887 | +569 | 🕷️ An adaptive Web Scraping framework that handles... |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 56,870 | +1209 | The agent harness performance optimization system.... |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,731 | +726 | 🌊 Claude领先的代理编排平台。部署智能多代理集群，协调自主工作流，构建对话式AI系统。具备企业... |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 19,887 | +569 | 🕷️ 一个自适应网络爬虫框架，处理从单个请求到全面爬取的所有任务！ |
 | 4 | [superset-sh/superset](https://github.com/superset-sh/superset) | 3,235 | +543 | IDE for the AI Agents Era - Run an army of Claude ... |
-| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 22,580 | +490 | A cross-platform desktop All-in-One assistant tool... |
-| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 39,515 | +473 | 精选的Claude技能、资源和工具列表，用于定制Claude AI工作流。 |
-| 7 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,314 | +463 | Memory for 24/7 proactive agents like openclaw (mo... |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 22,580 | +490 | 一个跨平台桌面一体化助手工具，适用于Claude Code、Codex、OpenCode和Gemin... |
+| 6 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 39,515 | +473 | A curated list of awesome Claude Skills, resources... |
+| 7 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,314 | +463 | 为像openclaw（moltbot、clawdbot）这样的全天候主动代理提供记忆功能。 |
 | 8 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,937 | +408 | The Ultimate Collection of 900+ Agentic Skills for... |
-| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 3,722 | +390 | Give your AI agent eyes to see the entire internet... |
-| 10 | [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) | 1,120 | +203 | Semantic Intelligence for Large-Scale Engineering.... |
+| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 3,722 | +390 | 让您的AI代理拥有洞察整个互联网的“眼睛”。读取并搜索Twitter、Reddit、YouTube、... |
+| 10 | [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) | 1,120 | +203 | 面向大规模工程的语义智能。Context+是一款专为追求99%准确率的开发者设计的MCP服务器。通过... |
 | 11 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 177,164 | +188 | Fair-code workflow automation platform with native... |
-| 12 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,650 | +141 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepS... |
+| 12 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,650 | +141 | Programmer Yupi's AI Resource Collection + Vibe Co... |
 | 13 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 18,573 | +130 | Agentic IM Chatbot infrastructure that integrates ... |
-| 14 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,208 | +125 | An open-source AI agent that brings the power of G... |
-| 15 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 27,199 | +113 | Chrome DevTools for coding agents |
-| 16 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,747 | +111 | ⭐AI驱动的舆情与趋势监控，具备多平台聚合、RSS订阅和智能警报功能。🎯 告别信息过载，您的AI舆情... |
-| 17 | [upstash/context7](https://github.com/upstash/context7) | 47,407 | +103 | Context7 MCP服务器——为LLMs和AI代码编辑器提供最新的代码文档 |
+| 14 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,208 | +125 | 一个开源AI代理，将Gemini的强大功能直接带入您的终端。 |
+| 15 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 27,199 | +113 | 面向编码代理的Chrome开发者工具。 |
+| 16 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,747 | +111 | ⭐AI-driven public opinion & trend monitor with mul... |
+| 17 | [upstash/context7](https://github.com/upstash/context7) | 47,407 | +103 | Context7 MCP Server -- Up-to-date code documentati... |
 | 18 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 79,857 | +90 | Model Context Protocol Servers |
-| 19 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 8,741 | +76 | Official, Anthropic-managed directory of high qual... |
-| 20 | [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) | 594 | +76 | Integrate Grok's powerful real-time search capabil... |
+| 19 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 8,741 | +76 | 官方、由Anthropic管理的高质量Claude Code插件目录。 |
+| 20 | [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) | 594 | +76 | 通过MCP协议将Grok强大的实时搜索功能集成到Claude中！ |
 
 ---
 
@@ -610,4 +610,4 @@ git clone https://github.com/lllray/awesome-mcp-servers.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 21:07:25</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 21:54:01</sub></p>

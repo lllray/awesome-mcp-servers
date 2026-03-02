@@ -48,11 +48,11 @@
 | 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 3,722 | +390 | Give your AI agent eyes to see the entire internet. Read & s |
 | 10 | [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) | 1,120 | +203 | Semantic Intelligence for Large-Scale Engineering. Context+  |
 | 11 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 177,164 | +188 | Fair-code workflow automation platform with native AI capabi |
-| 12 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,650 | +141 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT  |
+| 12 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,650 | +141 | 程序员鱼皮的 |
 | 13 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 18,573 | +130 | Agentic IM Chatbot infrastructure that integrates lots of IM |
 | 14 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,208 | +125 | An open-source AI agent that brings the power of Gemini dire |
 | 15 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 27,199 | +113 | Chrome DevTools for coding agents |
-| 16 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,747 | +111 | ⭐AI-driven |
+| 16 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,747 | +111 | ⭐AI驱动的公众意见与趋势监测，支持多平台聚合、RSS及智能提醒。🎯告别信息过载，你的AI舆情监控助手与热点筛选工具！聚 |
 | 17 | [upstash/context7](https://github.com/upstash/context7) | 47,407 | +103 | Context7 MCP Server -- Up-to-date code documentation for LLM |
 | 18 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 79,857 | +90 | Model Context Protocol Servers |
 | 19 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 8,741 | +76 | Official, Anthropic-managed directory of high quality Claude |
@@ -602,4 +602,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-02 21:07:25</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 21:54:01</sub></p>
