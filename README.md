@@ -4,7 +4,7 @@
 
 > Curated collection of MCP servers, clients & SDKs — auto-collected from GitHub
 
-![Total](https://img.shields.io/badge/Total-2639-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2814k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-2639-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-01-orange?style=flat-square)
+![Total](https://img.shields.io/badge/Total-2639-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2814k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-0-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-02-orange?style=flat-square)
 
 ---
 
@@ -33,30 +33,30 @@
 
 ---
 
-## 🔥 Daily Trending (2026-03-01)
+## 🔥 Daily Trending (2026-03-02)
 
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
 | 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 55,661 | +351 | The agent harness performance optimization system. Skills, i |
-| 2 | [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) | 946 | +238 | Stop losing context to large outputs. |
-| 3 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,005 | +186 | 🌊 The leading agent orchestration platform for Claude. Deplo |
-| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 19,318 | +167 | 🕷️ An adaptive Web Scraping framework that handles everythin |
-| 5 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 39,042 | +137 | A curated list of awesome Claude Skills, resources, and tool |
-| 6 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 22,090 | +130 | A cross-platform desktop All-in-One assistant tool for Claud |
-| 7 | [superset-sh/superset](https://github.com/superset-sh/superset) | 2,692 | +118 | IDE for the AI Agents Era - Run an army of Claude Code, Code |
-| 8 | [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) | 917 | +113 | Semantic Intelligence for Large-Scale Engineering. Context+  |
-| 9 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,529 | +109 | The Ultimate Collection of 900+ Agentic Skills for Claude Co |
-| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 3,332 | +105 | Give your AI agent eyes to see the entire internet. Read & s |
-| 11 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 11,851 | +98 | Memory for 24/7 proactive agents like openclaw (moltbot, cla |
-| 12 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 18,443 | +43 | Agentic IM Chatbot infrastructure that integrates lots of IM |
-| 13 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,509 | +39 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT  |
-| 14 | [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) | 1,283 | +34 | An MCP server for interacting with the Financial Datasets st |
-| 15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 176,976 | +33 | Fair-code workflow automation platform with native AI capabi |
-| 16 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,083 | +31 | An open-source AI agent that brings the power of Gemini dire |
-| 17 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 9,629 | +30 | MCP for xiaohongshu.com |
-| 18 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 8,665 | +29 | Official, Anthropic-managed directory of high quality Claude |
-| 19 | [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) | 518 | +29 | Integrate Grok's powerful real-time search capabilities into |
-| 20 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,636 | +26 | ⭐AI-driven public opinion & trend monitor with multi-platfor |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,005 | +186 | 🌊 The leading agent orchestration platform for Claude. Deplo |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 19,318 | +167 | 🕷️ An adaptive Web Scraping framework that handles everythin |
+| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 39,042 | +137 | A curated list of awesome Claude Skills, resources, and tool |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 22,090 | +130 | A cross-platform desktop All-in-One assistant tool for Claud |
+| 6 | [superset-sh/superset](https://github.com/superset-sh/superset) | 2,692 | +118 | IDE for the AI Agents Era - Run an army of Claude Code, Code |
+| 7 | [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) | 917 | +113 | Semantic Intelligence for Large-Scale Engineering. Context+  |
+| 8 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,529 | +109 | The Ultimate Collection of 900+ Agentic Skills for Claude Co |
+| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 3,332 | +105 | Give your AI agent eyes to see the entire internet. Read & s |
+| 10 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 11,851 | +98 | Memory for 24/7 proactive agents like openclaw (moltbot, cla |
+| 11 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 18,443 | +43 | Agentic IM Chatbot infrastructure that integrates lots of IM |
+| 12 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,509 | +39 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT  |
+| 13 | [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) | 1,283 | +34 | An MCP server for interacting with the Financial Datasets st |
+| 14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 176,976 | +33 | Fair-code workflow automation platform with native AI capabi |
+| 15 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,083 | +31 | An open-source AI agent that brings the power of Gemini dire |
+| 16 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 8,665 | +29 | Official, Anthropic-managed directory of high quality Claude |
+| 17 | [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch) | 518 | +29 | Integrate Grok's powerful real-time search capabilities into |
+| 18 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 47,636 | +26 | ⭐AI-driven public opinion & trend monitor with multi-platfor |
+| 19 | [upstash/context7](https://github.com/upstash/context7) | 47,304 | +23 | Context7 MCP Server -- Up-to-date code documentation for LLM |
+| 20 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 79,767 | +21 | Model Context Protocol Servers |
 
 ---
 
@@ -595,4 +595,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-01 22:57:46</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:49:10</sub></p>
