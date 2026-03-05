@@ -1,11 +1,11 @@
-# 每日报告 2026-03-04
+# 每日报告 2026-03-05
 - 仓库: Awesome MCP Servers
-- 今日新增: 13 | 总数: 3132 | Stars: 3,623,073
+- 今日新增: 13 | 总数: 3145 | Stars: 3,636,194
 - 链接: https://github.com/lllray/awesome-mcp-servers
 
 ## 热门 Top 5
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1602⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-2. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) +1063⭐ — 🕷️ An adaptive Web Scraping framework that handles everything from a single requ
-3. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) +808⭐ — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
-4. [superset-sh/superset](https://github.com/superset-sh/superset) +803⭐ — IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your mach
-5. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) +749⭐ — The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Curso
+1. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) +1707⭐ — ️ 适应性Web Scraping框架,从一个请求到一个全规模的爬虫处理一切!
+2. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1179⭐ — 该代理利用性能优化系统。为Claude Code、Codex、Cowork等提供技能、本能、记忆、安全性和研究优先的开发。
+3. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) +1041⭐ — 对于克劳德代码/反重力/课程的900多种代理技能的终极集合.
+4. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) +825⭐ — 让你的AI代理看到整个互联网.阅读和搜索Twitter,Reddit,YouTube,GitHub,Bilibili,XiaoHongShu 一个CLI,零AP
+5. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) +519⭐ — 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini CLI.
