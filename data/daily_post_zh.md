@@ -1,11 +1,11 @@
-# 每日报告 2026-03-09
+# 每日报告 2026-03-10
 - 仓库: Awesome MCP Servers
-- 今日新增: 15 | 总数: 3211 | Stars: 3,686,465
+- 今日新增: 30 | 总数: 3241 | Stars: 3,699,294
 - 链接: https://github.com/lllray/awesome-mcp-servers
 
 ## 热门 Top 5
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +2156⭐ — 该代理利用性能优化系统。为Claude Code、Codex、Cowork等提供技能、本能、记忆、安全性和研究优先的开发。
-2. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) +992⭐ — ️ 适应性Web Scraping框架,从一个请求到一个全规模的爬虫处理一切!
-3. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) +471⭐ — 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini CLI.
-4. [superset-sh/superset](https://github.com/superset-sh/superset) +471⭐ — 智能化代理时代的IDE - 在机器上运行一个克劳德代码,Codex等的军队
-5. [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) +464⭐ — 网络攻击AI是一个人工智能本土安全测试平台,建立在Go中.它集成了100多种安全工具,智能管弦引擎,基于角色的测试,具有预定义的安全角色,具有专业测试技能的技能
+1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1349⭐ — 该代理利用性能优化系统。为Claude Code、Codex、Cowork等提供技能、本能、记忆、安全性和研究优先的开发。
+2. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) +963⭐ — ️ 适应性Web Scraping框架,从一个请求到一个全规模的爬虫处理一切!
+3. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) +657⭐ — 对于克劳德代码/反重力/课程的900多种代理技能的终极集合.
+4. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) +472⭐ — 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini CLI.
+5. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) +445⭐ — 让你的AI代理看到整个互联网.阅读和搜索Twitter,Reddit,YouTube,GitHub,Bilibili,XiaoHongShu 一个CLI,零AP
