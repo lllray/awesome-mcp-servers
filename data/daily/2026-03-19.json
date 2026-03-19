@@ -1,0 +1,358 @@
+{
+  "date": "2026-03-19",
+  "total_skills": 3394,
+  "total_stars": 3816795,
+  "new_today": 17,
+  "top_gainers": [
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": 86924,
+      "delta": 2504,
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "stars": 1562,
+      "delta": 598,
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks."
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": 30379,
+      "delta": 572,
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI."
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "stars": 45962,
+      "delta": 410,
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "stars": 2504,
+      "delta": 302,
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
+    },
+    {
+      "name": "mergisi/awesome-openclaw-agents",
+      "stars": 1213,
+      "delta": 274,
+      "url": "https://github.com/mergisi/awesome-openclaw-agents",
+      "description": "Curated list of AI agent templates for OpenClaw. Ready-to-use SOUL.md configs for productivity, development, marketing, and business agents. Deploy with CrewClaw."
+    },
+    {
+      "name": "sickn33/antigravity-awesome-skills",
+      "stars": 25795,
+      "delta": 268,
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "description": "The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel."
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "stars": 31185,
+      "delta": 267,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": 30240,
+      "delta": 251,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "stars": 179974,
+      "delta": 211,
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "stars": 25951,
+      "delta": 199,
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+    },
+    {
+      "name": "rocketride-org/rocketride-server",
+      "stars": 208,
+      "delta": 191,
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment."
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "stars": 21762,
+      "delta": 186,
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "mksglu/claude-context-mode",
+      "stars": 2558,
+      "delta": 148,
+      "url": "https://github.com/mksglu/claude-context-mode",
+      "description": "Stop losing context to large outputs."
+    },
+    {
+      "name": "upstash/context7",
+      "stars": 49720,
+      "delta": 144,
+      "url": "https://github.com/upstash/context7",
+      "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "stars": 98342,
+      "delta": 136,
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "stars": 12732,
+      "delta": 135,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "mudler/LocalAI",
+      "stars": 44014,
+      "delta": 132,
+      "url": "https://github.com/mudler/LocalAI",
+      "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference"
+    },
+    {
+      "name": "ZSeven-W/openpencil",
+      "stars": 1047,
+      "delta": 131,
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "AI-native open-source design tool. Design-as-Code.Prompt to UI on canvas. Multi-agent orchestration. An alternative to Pencil."
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 9969,
+      "delta": 129,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "epiral/bb-browser",
+      "stars": 1399,
+      "delta": 129,
+      "url": "https://github.com/epiral/bb-browser",
+      "description": "Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state."
+    },
+    {
+      "name": "mksglu/context-mode",
+      "stars": 5291,
+      "delta": 127,
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "MCP is the protocol for tool access. We're the virtualization layer for context."
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": 81507,
+      "delta": 108,
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "stars": 83528,
+      "delta": 107,
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers."
+    },
+    {
+      "name": "ridafkih/keeper.sh",
+      "stars": 726,
+      "delta": 100,
+      "url": "https://github.com/ridafkih/keeper.sh",
+      "description": "Open-source calendar sync tool. Aggregate events from Google, Outlook, iCloud & CalDAV into one anonymized feed."
+    },
+    {
+      "name": "knowsuchagency/mcp2cli",
+      "stars": 1441,
+      "delta": 92,
+      "url": "https://github.com/knowsuchagency/mcp2cli",
+      "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "stars": 49307,
+      "delta": 89,
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+    },
+    {
+      "name": "superset-sh/superset",
+      "stars": 7432,
+      "delta": 85,
+      "url": "https://github.com/superset-sh/superset",
+      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": 29260,
+      "delta": 80,
+      "url": "https://github.com/microsoft/playwright-mcp",
+      "description": "Playwright MCP server"
+    },
+    {
+      "name": "icip-cas/PPTAgent",
+      "stars": 3668,
+      "delta": 78,
+      "url": "https://github.com/icip-cas/PPTAgent",
+      "description": "An Agentic Framework for Reflective PowerPoint Generation"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "stars": 73966,
+      "delta": 68,
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "stars": 2609,
+      "delta": 64,
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning."
+    },
+    {
+      "name": "xpzouying/xiaohongshu-mcp",
+      "stars": 11901,
+      "delta": 63,
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "description": "MCP for xiaohongshu.com"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "stars": 15402,
+      "delta": 62,
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "stars": 1620,
+      "delta": 62,
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "The Unofficial and Awesome Home Assistant MCP Server"
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "stars": 7279,
+      "delta": 57,
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge, allowing AI assistants (like Claude, Cursor) to interact directly with your Unity Editor via a local MCP (Model Context Protocol) Client. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity."
+    },
+    {
+      "name": "oraios/serena",
+      "stars": 21756,
+      "delta": 56,
+      "url": "https://github.com/oraios/serena",
+      "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)"
+    },
+    {
+      "name": "mrkrsl/web-search-mcp",
+      "stars": 620,
+      "delta": 53,
+      "url": "https://github.com/mrkrsl/web-search-mcp",
+      "description": "A simple, locally hosted Web Search MCP server for use with Local LLMs"
+    },
+    {
+      "name": "yusufkaraaslan/Skill_Seekers",
+      "stars": 11023,
+      "delta": 52,
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection"
+    },
+    {
+      "name": "liyupi/ai-guide",
+      "stars": 9841,
+      "delta": 51,
+      "url": "https://github.com/liyupi/ai-guide",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站"
+    },
+    {
+      "name": "Galaxy-Dawn/claude-scholar",
+      "stars": 1715,
+      "delta": 51,
+      "url": "https://github.com/Galaxy-Dawn/claude-scholar",
+      "description": "Personal AI CLI configuration for academic research & software development. Supports Claude Code, OpenCode, and Codex CLI — covering the full research lifecycle from ideation to publication."
+    },
+    {
+      "name": "1Panel-dev/MaxKB",
+      "stars": 20470,
+      "delta": 49,
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
+    },
+    {
+      "name": "Gentleman-Programming/engram",
+      "stars": 1592,
+      "delta": 48,
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
+    },
+    {
+      "name": "karanb192/reddit-mcp-buddy",
+      "stars": 538,
+      "delta": 48,
+      "url": "https://github.com/karanb192/reddit-mcp-buddy",
+      "description": "Clean, LLM-optimized Reddit MCP server. Browse posts, search content, analyze users. No fluff, just Reddit data."
+    },
+    {
+      "name": "danny-avila/LibreChat",
+      "stars": 34772,
+      "delta": 39,
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active."
+    },
+    {
+      "name": "github/github-mcp-server",
+      "stars": 28054,
+      "delta": 38,
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server"
+    },
+    {
+      "name": "zhayujie/chatgpt-on-wechat",
+      "stars": 42308,
+      "delta": 37,
+      "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。"
+    },
+    {
+      "name": "iflytek/astron-rpa",
+      "stars": 7117,
+      "delta": 34,
+      "url": "https://github.com/iflytek/astron-rpa",
+      "description": "Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises."
+    },
+    {
+      "name": "NevaMind-AI/memU",
+      "stars": 13049,
+      "delta": 32,
+      "url": "https://github.com/NevaMind-AI/memU",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot)."
+    },
+    {
+      "name": "mobile-next/mobile-mcp",
+      "stars": 3946,
+      "delta": 31,
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+    }
+  ]
+}
