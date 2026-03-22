@@ -1,11 +1,11 @@
-# 每日报告 2026-03-21
+# 每日报告 2026-03-22
 - 仓库: Awesome MCP Servers
-- 今日新增: 17 | 总数: 3418 | Stars: 3,842,847
+- 今日新增: 21 | 总数: 3439 | Stars: 3,861,164
 - 链接: https://github.com/lllray/awesome-mcp-servers
 
 ## 热门 Top 5
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +2839⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-2. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) +477⭐ — Official, Anthropic-managed directory of high quality Claude Code Plugins.
-3. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) +352⭐ — A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenC
-4. [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) +256⭐ — Local knowledge graph for Claude Code. Builds a persistent map of your codebase 
-5. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) +248⭐ — A curated list of awesome Claude Skills, resources, and tools for customizing Cl
+1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +3675⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+2. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) +358⭐ — A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenC
+3. [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) +314⭐ — Local knowledge graph for Claude Code. Builds a persistent map of your codebase 
+4. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) +249⭐ — Official, Anthropic-managed directory of high quality Claude Code Plugins.
+5. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) +235⭐ — A curated list of awesome Claude Skills, resources, and tools for customizing Cl
