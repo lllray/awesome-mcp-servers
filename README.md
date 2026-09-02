@@ -410,6 +410,7 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
+| [azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api) | 1 | TypeScript | Hosted MCP and API for adapting, scheduling, and publishing approved content across social platforms. |
 | [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) | 1,109 | Python | NekroAgent 是一个面向多人互动场景的跨平台 Agent 框架，集 Claude Code 沙盒执行、工作区编排、长期记忆、结构化  |
 | [TryCaspian/caspian-sdk](https://github.com/TryCaspian/caspian-sdk) | 935 | Python | One identity for your AI agent across Slack, Discord, Telegram, WhatsA |
 | [InditexTech/mcp-teams-server](https://github.com/InditexTech/mcp-teams-server) | 394 | Python | An MCP (Model Context Protocol) server implementation for Microsoft Te |
