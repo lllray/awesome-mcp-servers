@@ -472,6 +472,7 @@
 | [smith-and-web/obsidian-mcp-server](https://github.com/smith-and-web/obsidian-mcp-server) | 11 | TypeScript | MCP server for Obsidian vault management - enables Claude and other AI |
 | [jlevere/obsidian-mcp-plugin](https://github.com/jlevere/obsidian-mcp-plugin) | 9 | TypeScript | Allow an LLM to interact with your notes in Obsidian via MCP |
 | [steipete/notarium-mcp](https://github.com/steipete/notarium-mcp) | 7 | TypeScript | Notarium: encrypted Simplenote → MCP gateway, built for speed and clar |
+| [stonianua/neither-mcp](https://github.com/stonianua/neither-mcp) | 0 | TypeScript | Local stdio MCP for Cursor and Claude Desktop: selected notes/docs with related retrieval and source evidence. Install: npx -y @neitherai/mcp-server. Requires NEITHER_API_KEY; Node 20+. |
 
 ---
 
