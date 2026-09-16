@@ -463,6 +463,7 @@
 | [OpaqueGlass/syplugin-anMCPServer](https://github.com/OpaqueGlass/syplugin-anMCPServer) | 46 | TypeScript | A plugin that provide simple MCP service for Siyuan-note |
 | [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) | 45 | Python | Your second brain, starting today. CLI + MCP server that helps you bui |
 | [velvetmonkey/flywheel-memory](https://github.com/velvetmonkey/flywheel-memory) | 45 | TypeScript | MCP server giving AI a knowledge graph over Obsidian vaults. 13-layer  |
+| [contextstream/mcp-server](https://github.com/contextstream/mcp-server) | 43 | Rust | Shared project context for AI coding agents — hosted MCP with code search, decisions, lessons, and plans |
 | [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) | 42 | JavaScript | MCP Server integration for Bear note app |
 | [n24q02m/better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) | 31 | TypeScript | Markdown-first MCP server for Notion API - composite tools optimized f |
 | [Badhansen/notion-mcp](https://github.com/Badhansen/notion-mcp) | 29 | Python | A simple Model Context Protocol (MCP) server that integrates with Noti |
