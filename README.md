@@ -215,6 +215,7 @@
 | [limecloud/lime](https://github.com/limecloud/lime) | 1,482 | TypeScript | Full-stack AI agent for coding, files, terminals, tools, research, con |
 | [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) | 1,378 | Python | Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Code |
 | [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) | 1,371 | TypeScript | Open-source calendar sync tool. Aggregate events from Google, Outlook, |
+| [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 5 | Shell | Aident Loadout remote MCP — connect Codex/Claude/Cursor/ChatGPT to 1,000+ apps and 400+ Skills via https://aident.ai |
 
 ---
 
