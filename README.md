@@ -215,6 +215,7 @@
 | [limecloud/lime](https://github.com/limecloud/lime) | 1,486 | TypeScript | Full-stack AI agent for coding, files, terminals, tools, research, con |
 | [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) | 1,423 | Python | Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Code |
 | [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) | 1,387 | TypeScript | Open-source calendar sync tool. Aggregate events from Google, Outlook, |
+| [blockvectra/mcp](https://github.com/blockvectra/mcp) | 0 | JavaScript | Hosted blockchain MCP for developers and AI agents: keyless docs, pricing, chain discovery and permitted public RPC; Data API and account tools require a key; free plan with metered usage; can broadcast signed transactions. |
 
 ---
 
