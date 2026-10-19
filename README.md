@@ -215,6 +215,7 @@
 | [Stacklok/toolhive](https://github.com/stacklok/toolhive) | 1,623 | Go | ToolHive makes deploying MCP servers easy, secure and fun |
 | [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) | 1,606 | TypeScript | MCP Server for kubernetes management commands |
 | [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) | 1,551 | Go | The Terraform MCP Server provides seamless integration with Terraform  |
+| [blockvectra/mcp](https://github.com/blockvectra/mcp) | 0 | JavaScript | Hosted blockchain MCP for developers and AI agents: keyless docs, pricing, chain discovery and permitted public RPC; Data API and account tools require a key; free plan with metered usage; can broadcast signed transactions. |
 
 ---
 
