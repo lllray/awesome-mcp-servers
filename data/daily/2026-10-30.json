@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-30",
+  "total_skills": 5747,
+  "total_stars": 9122371,
+  "new_today": 19,
+  "top_gainers": [
+    {
+      "name": "morluto/rea",
+      "stars": 11640,
+      "delta": 4757,
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
+      "name": "chopratejas/headroom",
+      "stars": 42874,
+      "delta": 2560,
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "The Context Optimization Layer for LLM Applications"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "stars": 139111,
+      "delta": 1749,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 293049,
+      "delta": 1713,
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 106597,
+      "delta": 1305,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": 186213,
+      "delta": 990,
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "stars": 8463,
+      "delta": 954,
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+    },
+    {
+      "name": "cheaper-inference/OmniRoute",
+      "stars": 82722,
+      "delta": 674,
+      "url": "https://github.com/cheaper-inference/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "stars": 108838,
+      "delta": 673,
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": 150310,
+      "delta": 660,
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI."
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "stars": 44984,
+      "delta": 606,
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "stars": 23461,
+      "delta": 562,
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "stars": 79174,
+      "delta": 440,
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. The free AI gateway — one endpoint, 160+ providers, zero downtime. Smart 4-tier auto-fallback (Subscription → API → Cheap → Free), prompt compression (save 15-75% tokens), 3-level proxy for geo-blocks, MCP Server (29 tools), A2A Protocol, 10 multi-modal APIs, and Desktop/Android/PWA apps."
+    },
+    {
+      "name": "DuarteSantos8/openGym",
+      "stars": 14706,
+      "delta": 414,
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+    },
+    {
+      "name": "arjun988/blender-skills",
+      "stars": 1564,
+      "delta": 370,
+      "url": "https://github.com/arjun988/blender-skills",
+      "description": "94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to engine export."
+    },
+    {
+      "name": "NanoNets/Graft",
+      "stars": 4665,
+      "delta": 355,
+      "url": "https://github.com/NanoNets/Graft",
+      "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase."
+    },
+    {
+      "name": "aicodeking/leanrea",
+      "stars": 3705,
+      "delta": 351,
+      "url": "https://github.com/aicodeking/leanrea",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper."
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "stars": 45375,
+      "delta": 341,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "cbrock84/headcount",
+      "stars": 2519,
+      "delta": 317,
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable."
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "stars": 1534,
+      "delta": 297,
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …"
+    },
+    {
+      "name": "Appllama/appllama-skills",
+      "stars": 3745,
+      "delta": 293,
+      "url": "https://github.com/Appllama/appllama-skills",
+      "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens."
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "stars": 4042,
+      "delta": 271,
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys."
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "stars": 37162,
+      "delta": 246,
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
+    },
+    {
+      "name": "HBAI-Ltd/Toonflow-app",
+      "stars": 19959,
+      "delta": 241,
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "description": "短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted and extensible, with a canvas-based approach similar to LibTV and TapNow."
+    },
+    {
+      "name": "beenuar/AiSOC",
+      "stars": 5231,
+      "delta": 228,
+      "url": "https://github.com/beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue."
+    },
+    {
+      "name": "WenyuChiou/awesome-agentic-ai-zh",
+      "stars": 8281,
+      "delta": 227,
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
+    },
+    {
+      "name": "ahujasid/mcp-for-blender",
+      "stars": 32782,
+      "delta": 214,
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice"
+    },
+    {
+      "name": "ZSeven-W/openpencil",
+      "stars": 6969,
+      "delta": 205,
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "AI-native open-source design tool. Design-as-Code.Prompt to UI on canvas. Multi-agent orchestration. An alternative to Pencil."
+    },
+    {
+      "name": "dagoSte/squadra",
+      "stars": 1039,
+      "delta": 205,
+      "url": "https://github.com/dagoSte/squadra",
+      "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independent review. Built-in skills recall lessons, simplify code and forecast work. Track progress, decisions and evidence in a bilingual local dashboard, with MCP plugins. Browse skills and verified security audits."
+    },
+    {
+      "name": "butterbase-ai/butterbase-oss",
+      "stars": 1006,
+      "delta": 204,
+      "url": "https://github.com/butterbase-ai/butterbase-oss",
+      "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP."
+    },
+    {
+      "name": "sixtysevenlf/dsh-blender-plugin",
+      "stars": 710,
+      "delta": 200,
+      "url": "https://github.com/sixtysevenlf/dsh-blender-plugin",
+      "description": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling"
+    },
+    {
+      "name": "777genius/agent-teams-ai",
+      "stars": 2351,
+      "delta": 199,
+      "url": "https://github.com/777genius/agent-teams-ai",
+      "description": "You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(75+ LLM providers). Build your AI company."
+    },
+    {
+      "name": "rocketride-org/rocketride-server",
+      "stars": 18858,
+      "delta": 191,
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment."
+    },
+    {
+      "name": "langgenius/dify",
+      "stars": 159987,
+      "delta": 189,
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development."
+    },
+    {
+      "name": "better-auth/better-icons",
+      "stars": 1444,
+      "delta": 188,
+      "url": "https://github.com/better-auth/better-icons",
+      "description": "Skill and MCP server for searching and retrieving icons"
+    },
+    {
+      "name": "HKUDS/nanobot",
+      "stars": 49546,
+      "delta": 185,
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "stars": 78322,
+      "delta": 172,
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "stars": 8037,
+      "delta": 167,
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "description": "Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "stars": 80227,
+      "delta": 165,
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "stars": 17633,
+      "delta": 165,
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora."
+    },
+    {
+      "name": "erickochen/purple",
+      "stars": 251,
+      "delta": 161,
+      "url": "https://github.com/erickochen/purple",
+      "description": "Terminal SSH client with MCP support for AI agent integration, instant search, cloud sync from 12 providers, Docker/Podman container management, visual file transfer and password management. Edits ~/.ssh/config with round-trip fidelity."
+    },
+    {
+      "name": "apify/apify-mcp-server",
+      "stars": 13892,
+      "delta": 157,
+      "url": "https://github.com/apify/apify-mcp-server",
+      "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store."
+    },
+    {
+      "name": "sickn33/agentic-awesome-skills",
+      "stars": 48799,
+      "delta": 150,
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections."
+    },
+    {
+      "name": "Derpyu520/qq-bridge",
+      "stars": 3322,
+      "delta": 148,
+      "url": "https://github.com/Derpyu520/qq-bridge",
+      "description": "Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more."
+    },
+    {
+      "name": "mksglu/claude-context-mode",
+      "stars": 2558,
+      "delta": 148,
+      "url": "https://github.com/mksglu/claude-context-mode",
+      "description": "Stop losing context to large outputs."
+    },
+    {
+      "name": "quantumproxies/quantumproxies.io",
+      "stars": 1092,
+      "delta": 143,
+      "url": "https://github.com/quantumproxies/quantumproxies.io",
+      "description": "Residential, datacenter, ISP & mobile proxies with 90M+ IPs in 200+ countries — plus Scraper & SERP APIs. Code examples in Python, Node.js, PHP, Go, Java, C#, Ruby and curl."
+    },
+    {
+      "name": "danny-avila/LibreChat",
+      "stars": 44756,
+      "delta": 137,
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active."
+    },
+    {
+      "name": "irinabuht12-oss/google-meta-ads-ga4-mcp",
+      "stars": 2358,
+      "delta": 128,
+      "url": "https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp",
+      "description": "MCP server for Google Ads, Meta Ads & GA4 — works with ChatGPT, Claude, Cursor, n8n, Windsurf & more. 250+ tools for campaign management, analytics & optimization."
+    },
+    {
+      "name": "n8n-io/n8n",
+      "stars": 209105,
+      "delta": 127,
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    },
+    {
+      "name": "miuuyy/codex-chatgpt-web",
+      "stars": 15276,
+      "delta": 122,
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits."
+    }
+  ]
+}
