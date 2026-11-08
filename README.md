@@ -215,6 +215,7 @@
 | [theNetworkChuck/docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial) | 1,639 | - | Complete tutorial materials for building MCP servers with Docker - fro |
 | [StacklokLabs/toolhive](https://github.com/stacklok/toolhive) | 1,623 | Go | ToolHive makes deploying MCP servers easy, secure and fun |
 | [Stacklok/toolhive](https://github.com/stacklok/toolhive) | 1,623 | Go | ToolHive makes deploying MCP servers easy, secure and fun |
+| [blockvectra/mcp](https://github.com/blockvectra/mcp) | 0 | JavaScript | Hosted blockchain MCP for developers and AI agents: keyless docs, pricing, chain discovery and permitted public RPC; Data API and account tools require a key; free plan with metered usage; can broadcast signed transactions. |
 
 ---
 
