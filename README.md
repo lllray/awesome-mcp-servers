@@ -266,6 +266,7 @@
 ---
 
 ### <a id="web-search"></a>🔍 Search & Web
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. `https://statsnet.co/mcp` · `io.github.usenetstate/statsnet`
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
